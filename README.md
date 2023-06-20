@@ -1,0 +1,1 @@
+Projeto Pokedex que lista todos os Pokemons da região de kantou com seuas tipagens e caracteristicas
